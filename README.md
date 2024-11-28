@@ -81,7 +81,8 @@ endmodule
  RegisterNumber: 24900165 
  
 **Logic symbol & Truthtable**
-![Uploading TRUTH TABLE (2).jpeg…]()
+![TRUTH TABLE (2)](https://github.com/user-attachments/assets/3eabc451-50d2-45a7-ab32-051e67798d79)
+
 
 **RTL realization Output:** 
 ![RTL Output](https://github.com/user-attachments/assets/822cccba-9af5-434f-bb96-9814a975d869)
